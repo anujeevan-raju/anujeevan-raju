@@ -29,7 +29,7 @@ My CV in pdf.
   * Excel
  
 - [Education](https://github.com/anujeevan-raju/anujeevan-raju/blob/main/README.md#education)
-* certifications
+- [certifications](https://github.com/anujeevan-raju/anujeevan-raju/blob/main/README.md#certification)
 * contact
   
 ## Education
