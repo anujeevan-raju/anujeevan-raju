@@ -15,7 +15,7 @@ My CV in pdf.
 ## Table of contents
 
 - [About](https://github.com/anujeevan-raju/anujeevan-raju/blob/main/README.md#about)
-* Project portfolio
+- [Project portfolio]()
   * SQL
   	* data cleaning
      * analysing
@@ -30,7 +30,10 @@ My CV in pdf.
  
 - [Education](https://github.com/anujeevan-raju/anujeevan-raju/blob/main/README.md#education)
 - [certifications](https://github.com/anujeevan-raju/anujeevan-raju/blob/main/README.md#certification)
-* contact
+- [contact](https://github.com/anujeevan-raju/anujeevan-raju/blob/main/README.md#contact)
+
+## Portfolio Projects
+
   
 ## Education
 SBRR Mahajana First Grade College, Mysore(University of Mysore)- MCA, Oct - 2018 to Sep - 2021
