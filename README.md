@@ -28,9 +28,10 @@ My CV in pdf.
      * analyzing
   * Excel
  
-- [Education](https://github.com/anujeevan-raju/anujeevan-raju/edit/main/README.md#education)
+- [Education](https://github.com/anujeevan-raju/anujeevan-raju/main/README.md#education)
 * certifications
 * contact
+  
 ## Education
 SBRR Mahajana First Grade College, Mysore(University of Mysore)- MCA, Oct - 2018 to Sep - 2021
  
