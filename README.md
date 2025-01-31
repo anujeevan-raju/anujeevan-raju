@@ -28,8 +28,7 @@ My CV in pdf.
      * analyzing
   * Excel
  
-- [Education](https://github.com/anujeevan-raju/anujeevan-raju/main/README.md#education)
-- [Education 1](https://github.com/anujeevan-raju/anujeevan-raju/blob/main/README.md#education)
+- [Education](https://github.com/anujeevan-raju/anujeevan-raju/blob/main/README.md#education)
 * certifications
 * contact
   
@@ -37,6 +36,18 @@ My CV in pdf.
 SBRR Mahajana First Grade College, Mysore(University of Mysore)- MCA, Oct - 2018 to Sep - 2021
  
 PES College of Science, Arts, and Commerce, Mandya(University of Mysore)- BSc (Computer Science), Jul - 2015 to May - 2018
+
+Mandavya Excellence PU College, Mandya - 2nd PUC, Jun - 2014 to May - 2015
+
+Athreya High School, Mandya - SSLC, Jun - 2012 to May - 2013
+
+## Certification
+
+
+## Contact
+
+- Email: anujeevanr.65@gmail.com
+- Linkedin:
 
 
  
