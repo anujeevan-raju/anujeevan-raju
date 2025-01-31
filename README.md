@@ -15,7 +15,7 @@ My CV in pdf.
 ## Table of contents
 
 - [About](https://github.com/anujeevan-raju/anujeevan-raju/blob/main/README.md#about)
-- [Project portfolio]()
+- [Project portfolio](https://github.com/anujeevan-raju/anujeevan-raju/blob/main/README.md#portfolio-projects)
   * SQL
   	* data cleaning
      * analysing
@@ -36,13 +36,13 @@ My CV in pdf.
 
   
 ## Education
-SBRR Mahajana First Grade College, Mysore(University of Mysore)- MCA, Oct - 2018 to Sep - 2021
+**SBRR Mahajana First Grade College, Mysore(University of Mysore)- MCA, Oct - 2018 to Sep - 2021**
  
-PES College of Science, Arts, and Commerce, Mandya(University of Mysore)- BSc (Computer Science), Jul - 2015 to May - 2018
+**PES College of Science, Arts, and Commerce, Mandya(University of Mysore)- BSc (Computer Science), Jul - 2015 to May - 2018**
 
-Mandavya Excellence PU College, Mandya - 2nd PUC, Jun - 2014 to May - 2015
+**Mandavya Excellence PU College, Mandya - 2nd PUC, Jun - 2014 to May - 2015**
 
-Athreya High School, Mandya - SSLC, Jun - 2012 to May - 2013
+**Athreya High School, Mandya - SSLC, Jun - 2012 to May - 2013**
 
 ## Certification
 
