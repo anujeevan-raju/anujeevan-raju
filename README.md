@@ -14,7 +14,7 @@ My CV in pdf.
 
 ## Table of contents
 
-- [About] 
+- [About](https://github.com/anujeevan-raju/anujeevan-raju/blob/main/README.md#about)
 * Project portfolio
   * SQL
   	* data cleaning
@@ -28,7 +28,7 @@ My CV in pdf.
      * analyzing
   * Excel
  
-* Education
+- [Education](https://github.com/anujeevan-raju/anujeevan-raju/edit/main/README.md#education)
 * certifications
 * contact
 ## Education
