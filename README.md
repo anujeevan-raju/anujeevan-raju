@@ -14,7 +14,7 @@ My CV in pdf.
 
 ## Table of contents
 
-* About
+- [About] 
 * Project portfolio
   * SQL
   	* data cleaning
