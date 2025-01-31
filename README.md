@@ -10,7 +10,7 @@ I am keen to utilize my existing technical knowledge while expanding my role in 
 
 Outside of work, I am a dedicated cricket player and love to travel to new places. I also find solace in listening to music. Whether working independently or as part of a team, I am driven by the thrill of transforming raw data into actionable insights and am always looking to enhance my expertise in data analytics.
 
-My CV in pdf.
+My CV in [PDF](https://github.com/anujeevan-raju/anujeevan-raju/blob/main/Anujeevan_R%20CV.pdf).
 
 ## Table of contents
 
